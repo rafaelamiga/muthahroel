@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiezalieha.drmmancheva.com/sitemap.xml
